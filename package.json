@@ -1,0 +1,18 @@
+{
+  "name": "ws-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "wssample"
+  },
+  "description": "",
+  "dependencies": {
+    "ws": "^8.2.0"
+  }
+}
